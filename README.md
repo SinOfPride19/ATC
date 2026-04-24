@@ -33,13 +33,14 @@ Docker (for containerization)
 
 📂 Project Structure
 
-backend/        # FastAPI backend (API endpoints, inference)
-core_ml/        # ML models (CNN, YOLO, preprocessing)
-docker/         # Docker configuration files
-frontend/       # UI (HTML, CSS, TypeScript)
+backend/ 
+core_ml/     
+docker/  
+frontend/
 create_project_zip.py
 Docker-compose.yml
 README.md
+
 
 📥 Project Files (Google Drive)
 
