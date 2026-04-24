@@ -32,6 +32,7 @@ Others:
 Docker (for containerization)
 
 📂 Project Structure
+
 backend/        # FastAPI backend (API endpoints, inference)
 core_ml/        # ML models (CNN, YOLO, preprocessing)
 docker/         # Docker configuration files
@@ -41,6 +42,7 @@ Docker-compose.yml
 README.md
 
 📥 Project Files (Google Drive)
+
 Due to file size limitations, the complete project files (dataset and trained models) are hosted on Google Drive:
 
 🔗 https://drive.google.com/drive/folders/1-RJjBfjz95IT6Atw862pPX5sPpYlguNt?usp=sharing
