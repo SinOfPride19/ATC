@@ -51,11 +51,16 @@ Due to file size limitations, the complete project files (dataset and trained mo
 Note: Download and extract the files before running the project.
 
 ⚙️ Installation
+
 1.Clone the repository:
+
 git clone <your-repo-link>
 cd animal-classification
+
 2.Install dependencies:
+
 pip install -r requirements.txt
+
 
 ▶️ Usage
 
